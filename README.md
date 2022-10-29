@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kseth2707
+- 👋 Hi, I’m Kushagra Seth
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Web Designing
